@@ -2,9 +2,13 @@
 
 <h2>What I'm currently working on:</h2>
 
-<h3>Rust</h3>
-<h3>React</h3>
-<h3>Postgres</h3>
+<ul>
+  <h4>
+    <li>
+      Rust
+    </li>
+  </h4>
+</ul>
 
 <h2>Previous Projects:</h2>
 <ul>
