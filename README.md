@@ -3,11 +3,15 @@
 <h2>What I'm currently working on:</h2>
 
 <ul>
-  <h4>
-    <li>
-      Rust
-    </li>
-  </h4>
+  <li>
+    <h4>Rust</h4>
+  </li>
+  <li>
+    <h4>React</h4>
+  </li>
+  <li>
+    <h4>Postgres</h4>
+  </li>
 </ul>
 
 <h2>Previous Projects:</h2>
