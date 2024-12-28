@@ -7,4 +7,4 @@
 - React
 
 <h2>Previous Projects</h2>
-- [portfolio](https://brandon.ragghianti.org)
+- 🧑‍🍳 [RecipeReady](https://brandon.ragghianti.org)
