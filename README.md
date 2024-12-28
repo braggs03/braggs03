@@ -7,4 +7,10 @@
 - React
 
 <h2>Previous Projects:</h2>
-<h4> <a href="https://brandon.ragghianti.org">Personal Website</a> - <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/svelte/svelte-original.svg" alt="Svelte" width="13" height="13"/> </a> </h4>
+<h4> 
+  <a href="https://brandon.ragghianti.org">Personal Website</a> 
+    - 
+    <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/svelte/svelte-original.svg" alt="Svelte" width="13" height="13"/> 
+    <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nginx/nginx-original.svg" alt="Nginx" width="13" height="13"/> 
+  </a> 
+</h4>
