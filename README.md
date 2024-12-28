@@ -6,5 +6,5 @@
 - Postgres
 - React
 
-<h2>Previous Projects</h2>
-- 🧑‍🍳 [RecipeReady](https://brandon.ragghianti.org)
+<h2>Previous Projects:</h2>
+- [Personal Website](https://brandon.ragghianti.org)
