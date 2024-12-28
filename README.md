@@ -7,7 +7,7 @@
     <h3> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rust/rust-original.svg" alt="Svelte" width="15" height="15"/> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">Rust</a></h3>
   </li>
   <li>
-    <h4>React</h4>
+    <h3> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg" alt="React" width="15" height="15"/> <a href="https://react.dev/" target="_blank" rel="noreferrer">React</a></h3>
   </li>
   <li>
     <h4>Postgres</h4>
