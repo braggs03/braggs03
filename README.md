@@ -15,3 +15,10 @@
     <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cloudflare/cloudflare-original.svg" alt="Nginx" width="13" height="13"/> 
   </a> 
 </h4>
+
+<h2>Contact Me:</h2>
+<ul>
+  <li>
+    <h4> LinkedIn </h4>
+  </li>
+</ul>
