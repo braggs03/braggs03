@@ -1,9 +1,4 @@
-<p align="center">
-
-Brandon Ragghianti
-
-</p>
-
+<h1 align="center">Hi, I'm Brandon Ragghianti</h1>
 
 Here are some ideas to get you started:
 
