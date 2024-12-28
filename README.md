@@ -4,8 +4,7 @@
 
 <ul>
   <li>
-    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rust/rust-original.svg" alt="Svelte" width="15" height="15"/> 
-    <h4>Rust</h4>
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rust/rust-original.svg" alt="Svelte" width="15" height="15"/><h4>Rust</h4>
   </li>
   <li>
     <h4>React</h4>
