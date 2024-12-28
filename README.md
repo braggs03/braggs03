@@ -7,4 +7,4 @@
 - React
 
 <h2>Previous Projects:</h2>
-[Personal Website](https://brandon.ragghianti.org)
+<a href="https://brandon.ragghianti.org">Personal Website</a>
