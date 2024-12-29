@@ -28,8 +28,4 @@
 </ul>
 
 <h2>Contact Me:</h2>
-<ul>
-  <li>
-    <h4> LinkedIn </h4>
-  </li>
-</ul>
+<a href="https://www.linkedin.com/in/brandon-ragghianti-126448299/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quienten-miller" height="30" width="40" /></a>
