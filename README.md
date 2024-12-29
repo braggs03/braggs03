@@ -27,7 +27,11 @@
   </li>
   <li>
     <h3> 
-      <a href="https://brandon.ragghianti.org" target="_blank"> Something </a> 
+      <a href="https://github.com/braggs03/tcss-305-tetris" target="_blank"> Tetris </a> 
+      - 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" alt="Svelte" width="15" height="15"/>
+      <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://www.myqnap.org/wp-content/uploads/nginx-3628948-3030173-1.png" alt="Nginx" width="15" height="15"/></a>
+      <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cloudflare/cloudflare-original.svg" alt="Nginx" width="15" height="15"/></a>
     </h3>
   </li>
 </ul>
