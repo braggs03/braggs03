@@ -25,11 +25,11 @@
       <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cloudflare/cloudflare-original.svg" alt="Nginx" width="15" height="15"/></a>
     </h3>
   </li>
-  <l1>
+  <li>
     <h3> 
       <a href="https://brandon.ragghianti.org" target="_blank"> Something </a> 
     </h3>
-  </l1>
+  </li>
 </ul>
 
 <h2>Contact Me:</h2>
