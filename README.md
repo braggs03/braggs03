@@ -28,5 +28,5 @@
 </ul>
 
 <h2>Contact Me:</h2>
-<a href="mailto:brandonragghianti@gmail.com" target="_blank"><img align="center" src="https://w7.pngwing.com/pngs/799/918/png-transparent-mail-google-gmail-google-s-logo-icon-thumbnail.png" alt="quienten-miller" height="30" width="40" /></a>
+<a href="mailto:brandonragghianti@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="quienten-miller" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/brandon-ragghianti-126448299/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quienten-miller" height="30" width="40" /></a>
