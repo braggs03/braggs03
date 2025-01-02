@@ -32,6 +32,15 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" alt="Svelte" width="15" height="15"/>
     </h3>
   </li>
+  <li>
+    <h3> 
+      <a href="https://github.com/braggs03/TCSS462-TLQ-Pipeline" target="_blank"> AWS Transform-Load-Query Pipeline </a> 
+      - 
+      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Svelte" width="15" height="15"/> </a>
+      <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://www.myqnap.org/wp-content/uploads/nginx-3628948-3030173-1.png" alt="Nginx" width="15" height="15"/> </a>
+      <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cloudflare/cloudflare-original.svg" alt="Nginx" width="15" height="15"/> </a>
+    </h3>
+  </li>
 </ul>
 
 <h2>Contact Me:</h2>
